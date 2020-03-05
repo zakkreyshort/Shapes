@@ -1,0 +1,9 @@
+/Users/zakkreyshort/Desktop/Shapes.Solution/Shapes/obj/Debug/netcoreapp2.2/Shapes.csprojAssemblyReference.cache
+/Users/zakkreyshort/Desktop/Shapes.Solution/Shapes/obj/Debug/netcoreapp2.2/Shapes.csproj.CoreCompileInputs.cache
+/Users/zakkreyshort/Desktop/Shapes.Solution/Shapes/obj/Debug/netcoreapp2.2/Shapes.AssemblyInfoInputs.cache
+/Users/zakkreyshort/Desktop/Shapes.Solution/Shapes/obj/Debug/netcoreapp2.2/Shapes.AssemblyInfo.cs
+/Users/zakkreyshort/Desktop/Shapes.Solution/Shapes/bin/Debug/netcoreapp2.2/Shapes.deps.json
+/Users/zakkreyshort/Desktop/Shapes.Solution/Shapes/bin/Debug/netcoreapp2.2/Shapes.dll
+/Users/zakkreyshort/Desktop/Shapes.Solution/Shapes/bin/Debug/netcoreapp2.2/Shapes.pdb
+/Users/zakkreyshort/Desktop/Shapes.Solution/Shapes/obj/Debug/netcoreapp2.2/Shapes.dll
+/Users/zakkreyshort/Desktop/Shapes.Solution/Shapes/obj/Debug/netcoreapp2.2/Shapes.pdb
